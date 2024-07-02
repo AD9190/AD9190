@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Ayan Dasgupta]!
+# 👋 Hi there, I'm Ayan Dasgupta!
 
 ## 🧠 About Me
 - Passionate about Machine Learning & Data Science
@@ -20,4 +20,4 @@
 - 🛠️ Git
 
 ## 📫 Contact Me
-- Email: [adasgupta2004@gmail.com]
+- Email: adasgupta2004@gmail.com
